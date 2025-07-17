@@ -4,7 +4,7 @@
 }
 </style>
 
-![jsonrpcclient](images/logo.png)
+![jsonrpcclient](assets/logo.png)
 
 _Generate JSON-RPC requests and parse responses in Python._
 

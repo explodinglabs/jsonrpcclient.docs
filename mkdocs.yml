@@ -1,5 +1,5 @@
 site_name: jsonrpcclient
-site_url: https://explodinglabs.com/jsonrpcclient/
+site_url: https://www.explodinglabs.com/jsonrpcclient/
 repo_url: https://github.com/explodinglabs/jsonrpcclient
 theme:
   name: material
@@ -27,6 +27,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+extra_css:
+  - assets/extra.css
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
